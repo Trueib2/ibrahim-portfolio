@@ -1,0 +1,79 @@
+{
+  "basics": {
+    "name": "Muhammad Ibrahim",
+    "label": "Computer Science",
+    "headline": "I am interested in the field of computer science",
+    "summary": "Computer Science student based in Karachi, Pakistan. I lead AI automation strategy across web, mobile, desktop, and API ecosystems, build durable frameworks from the ground up, and help organizations turn quality into a delivery advantage instead of a release bottleneck.",
+    "location": {
+      "country": "Pakistan",
+      "countryCode": "PK",
+      "region": "Karachi"
+    },
+    "email": "iarman529@gmail.com",
+    "availability": "Currently leading quality architecture at Contour Software since February 2026.",
+    "leadershipNote": "Trusted by product and engineering leaders to bring structure, visibility, and dependable release confidence to complex delivery environments.",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Trueib2",
+        "url": "https://github.com/Trueib2",
+        "icon": "fa-brands fa-github"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Muhammad Ibrahim",
+        "url": "https://www.linkedin.com/in/ibrahim-arman-005a73291/?isSelfProfile=true",
+        "icon": "fa-brands fa-linkedin-in"
+      }
+    ]
+  },
+  "about": {
+    "intro": [
+      "I'm a Computer Science student based in Karachi, Pakistan, with a strong interest in QA automation, software architecture, and delivery engineering. Alongside my studies, I've been building hands-on experience across web, mobile, desktop, and API testing — exploring how solid frameworks and automation practices help teams ship with confidence"
+    ]
+  },
+  "skills": [
+    {
+      "category": "Web Development",
+      "items": [
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "category": "Languages",
+      "items": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "C#",
+        "SQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Meritorious Science College",
+      "area": "Pre-Eng",
+      "startDate": "2023",
+      "endDate": "2025"
+    },
+    {
+      "institution": "GU TECH",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science (BS)",
+      "startDate": "2026",
+      "endDate": "2030"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Native"
+    }
+  ]
+}
